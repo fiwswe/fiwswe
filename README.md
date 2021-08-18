@@ -1,4 +1,14 @@
-### Hi there 👋
+### Public alias
+
+`fiwswe` is obviously not my real name 😉
+
+#### About me
+IT administrator, software developer, all around IT expert with experience on:
+- macOS
+- OpenBSD
+- General computing
+- Networking
+- …
 
 <!--
 **fiwswe/fiwswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
